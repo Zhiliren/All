@@ -1,4 +1,4 @@
 第二次添加该文档上传到git仓库里
 今天我学习了git分支知识点如何产生版本号，需要git提交到缓存区commit
-版本回退需要注意
-git revert 和 git reset 的区别
+Git版本回退需要注意
+revert 和 reset 的区别
